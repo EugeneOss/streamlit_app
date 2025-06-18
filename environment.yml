@@ -1,0 +1,8 @@
+name: streamlitenv
+channels:
+  - conda-forge
+dependencies:
+  - streamlit
+  - python
+  - seaborn
+  - yfinance
